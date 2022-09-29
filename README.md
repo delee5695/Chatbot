@@ -1,26 +1,30 @@
 # Chatbot
 Natural Language Processing Project
 
-## 📄 커리큘럼
+[Dacon Artificial Intelligence Study](https://dacon.io/myprofile/419621/codeshare)
 
-**자연어 처리**
+## 📄 Curriculum
 
-[💬Irene] ❤️ 1편. 토크나이징과 임베딩이란? - KoNLPy, 단어 임베딩
+**Natural Language Processing**
 
-[💬Irene] 🧡 2편. 텍스트 유사도 - n-gram 유사도, 코사인 유사도 
+[💬Irene] [1. Tokenizing and Embedding- KoNLPy, Word Embedding](https://dacon.io/competitions/official/235946/codeshare/5539)
 
-**챗봇 기본 구조**
+[💬Irene] [2. Text Similarity - n-gram Similarity, Cosine Similarity](https://dacon.io/competitions/official/235946/codeshare/5633)
 
-[💬Irene] 💛 3편. 챗봇 엔진에 필요한 딥러닝 모델 - Keras, CNN, LSTM
+**Chatbot Fundamental Structure**
 
-[💬Irene] 💚 4편. 챗봇 학습툴 만들기 - MySQL, DB 연동
+[💬Irene] [3-1. Deep Learning Model for Chatbot Engine - Keras, CNN](https://dacon.io/competitions/official/235946/codeshare/5774), 
+          [3-2. Deep Learning Model for Chatbot Engine  - ㅣLSTM](https://dacon.io/competitions/official/235946/codeshare/5812)
 
-[💬Irene] 💙 5편. 챗봇 엔진 만들기 - 전처리 과정, 의도 분류 및 개체명 인식 모델 학습, 챗봇 엔진 서버 개발
+[💬Irene] [4. Chatbot Learning Tool - MySQL, DataBase](https://dacon.io/competitions/official/235946/codeshare/5863)
 
-[💬Irene] 💜 6편. 챗봇 API 소개 - 챗봇 API, 파이썬 Flask
+[💬Irene] [5. Chatbot Engine - Data Pre-processing, Intent Classification & Named Entity Recognition, Developing Server Engine](https://dacon.io/competitions/official/235946/codeshare/5987)
 
-**챗봇 응용편** 
+[💬Irene] [6. Chatbot API Intro - Chatbot API, Python Flask](https://dacon.io/competitions/official/235946/codeshare/6018)
 
-[💬Irene] 🤎 7편. 카카오톡 챗봇 만들기 - 카카오 아이 오픈빌더 소개 및 연동
+**Chatbot** 
 
-[💬Irene] 🖤 8편. 네이버톡톡 챗봇 만들기 - 네이버톡톡 챗봇 플랫폼 소개 및 연동
+[💬Irene] [7. Building Kakaotalk Chatbot - Kakao i openbuilder introduction and connection](https://dacon.io/competitions/official/235946/codeshare/6143)
+
+## 💡 Resources
+[처음 배우는 딥러닝 챗봇](https://www.hanbit.co.kr/store/books/look.php?p_code=B7030488815)
